@@ -1,5 +1,7 @@
 # Core CSS & The Grid System
 
+Looking for Bootstrap codes: https://github.com/twbs/bootstrap/blob/master/dist/css/bootstrap.css
+
 #### Core CSS
 1. mindmap when design your website: content-order-layout 
 2. mobile first design to concentrate on the most important content 
