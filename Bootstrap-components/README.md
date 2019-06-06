@@ -25,3 +25,4 @@
 1. Core Components - Part 2 at 2:26min, <div class="d-none d-sm-block">should means image only show up in small screen, why opposite effect?
 2. Core Components - Part 2 at 6:19min, when try to make icons hidden on mobile, they appear on desktop screen with headers in two lines...
 3. line15-17: Which class makes navbar button only show up when its a mobile screen??  
+4. component quiz 2: a button is not a component???

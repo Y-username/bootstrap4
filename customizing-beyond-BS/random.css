@@ -1,0 +1,42 @@
+body {
+    margin: 50px;
+}
+header {
+    width: 100vw;
+    height: 30vh;
+}
+div {
+  width  : 60px;
+  height : 60px;
+  border : 20px solid rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin : 20px;
+
+  background-size    : 140px;
+  background-position: center;
+  background-color   : red;
+  background-color   : gold;
+}
+
+.default { background-clip: border-box;  }
+.padding-box { background-clip: padding-box; }
+.content-box { 
+    background-clip: content-box; 
+    outline: 30px solid;
+    border-radius: 2rem;}
+
+p {
+  width  : 400px;
+  height : 2.5em;
+  padding: 1em 1em 1em 1em;
+  border : 1px solid black;
+}
+
+.autoscroll { overflow: auto;    }
+.clipped    { overflow: hidden;  }
+.default    { overflow: visible; }
+
+footer {
+    margin-top: 100px;
+    border: 30%;
+}
